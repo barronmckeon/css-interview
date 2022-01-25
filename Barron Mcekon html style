@@ -1,0 +1,32 @@
+
+div{
+    border-color: blue;
+    width: auto;
+    height: auto;
+    padding: 25px;
+    border-style: dashed;
+    padding: 25px;
+    box-shadow: rgb(8, 0, 0);
+    background-color: black;
+}
+
+
+
+
+h1,h2,h3 {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+li {    
+    font-style: italic;
+    padding: 25px;
+    margin: 10px;
+}
+
+
+img { 
+    border-radius: 50px; 
+    width: 250px;
+    height: 250px;   }
